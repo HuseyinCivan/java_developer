@@ -25,8 +25,4 @@ public class ShapeTest {
 drawable31.draw("Triangle","Mike");
     }
 
-
-
-
-
 }
