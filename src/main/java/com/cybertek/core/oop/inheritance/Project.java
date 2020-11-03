@@ -2,10 +2,8 @@ package com.cybertek.core.oop.inheritance;
 
 import com.cybertek.core.enums.Status;
 import com.cybertek.core.oop.encapsulation.User;
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
+import lombok.*;
+
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
